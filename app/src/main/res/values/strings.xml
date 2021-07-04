@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search">Search</string>
+    <string name="plus">plus</string>
+    <string name="hello">Hello</string>
+    <string name="loremp_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Elementum nibh tellus molestie nunc non blandit massa enim. Iaculis at erat pellentesque adipiscing commodo elit at. Convallis convallis tellus id interdum velit laoreet id donec. Vulputate eu scelerisque felis imperdiet proin. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Dictumst quisque sagittis purus sit. Amet facilisis magna etiam tempor. Id neque aliquam vestibulum morbi blandit. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Ultrices neque ornare aenean euismod elementum nisi. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Varius duis at consectetur lorem. Donec ultrices tincidunt arcu non sodales neque. Tellus mauris a diam maecenas sed. Mauris augue neque gravida in. Ridiculus mus mauris vitae ultricies leo integer. Ipsum suspendisse ultrices gravida dictum fusce. Cras semper auctor neque vitae. Ut sem nulla pharetra diam. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Sagittis vitae et leo duis ut diam quam nulla. Ornare arcu odio ut sem nulla pharetra diam sit. In nulla posuere sollicitudin aliquam. Sociis natoque penatibus et magnis dis parturient montes nascetur. Pretium aenean pharetra magna ac placerat vestibulum. Sit amet consectetur adipiscing elit. Ac tincidunt vitae semper quis lectus nulla at. Mus mauris vitae ultricies leo integer malesuada nunc vel risus.</string>
+    <string name="title">Title</string>
+    <string name="isikan_notemu">Isikan notemu!</string>
+    <string name="share">Share</string>
+    <string name="thisbutton">thisButton</string>
+</resources>
